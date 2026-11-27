@@ -31,9 +31,9 @@ cp -r agent-skills/agent-architect ~/.claude/skills/
 
 | Project | Highlights | Stack |
 |---|---|---|
-| [**Treatment prediction from clinical notes**](https://github.com/Sritejam/Predicting_Treatments) | Fine-tuned Clinical BERT to identify treatments in clinical notes; **94% weighted F1** on highly imbalanced data (SMOTE + stratified sampling), beating an SVM baseline | Python, Clinical BERT, Hugging Face, SMOTE |
+| [**Treatment prediction from clinical notes**](https://github.com/Sritejam/Predicting_Treatments) | Team capstone; I led modelling. Fine-tuned ClinicalBERT to predict treatments across 12 imbalanced classes: **0.95 weighted F1**, up from 0.93 for a tuned TF-IDF + SVM | Python, ClinicalBERT, Hugging Face, scikit-learn, SMOTE |
 | **Hybrid RAG for university Q&A** | FAISS vector search + BM25 + BERT re-ranking over custom semantic chunks with metadata tagging for privacy; **BERTScore F1 0.88** | Python, GPT-3.5, FAISS, BM25, BERT |
-| [**Employee attrition analysis**](https://github.com/Sritejam/Employee_Attritioin_Prediction) | Unsupervised pipeline with PCA, K-Means and DBSCAN, built with SME guidance; **86% weighted F1** | Python, scikit-learn, Streamlit |
+| [**Employee attrition with 500 labels**](https://github.com/Sritejam/Employee_Attritioin_Prediction) | Semi-supervised: PCA + K-Means++ into 498 clusters, one expert label per cluster for 7,500 unlabelled employees; **81.9% test F1** | Python, scikit-learn |
 
 ---
 
