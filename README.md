@@ -37,6 +37,17 @@ cp -r agent-skills/agent-architect ~/.claude/skills/
 
 ---
 
+## ✍️ Writing
+
+On [Medium](https://medium.com/@madishetty8):
+
+- [Building an LLM-Driven Retrieval-Augmented Generation (RAG) System](https://medium.com/@madishetty8/building-a-retrieval-augmented-generation-rag-model-for-umbc-internal-queries-f00128366c3a) (Dec 2024)
+- [Transforming Healthcare with Machine Learning: Predicting Treatments from Clinical Notes](https://medium.com/@madishetty8/transforming-healthcare-with-machine-learning-predicting-treatments-from-clinical-notes-423bdb92a84e) (Aug 2024)
+- [Predicting Employee Attrition: A Machine Learning Approach Using Unsupervised Learning](https://medium.com/@madishetty8/predicting-employee-attrition-a-machine-learning-approach-using-unsupervised-learning-7cf4bebb4efb) (Aug 2024)
+- [Analyzing Stock Trends with Moving Averages, RSI, and Bollinger Bands](https://medium.com/@madishetty8/analyzing-stock-trends-with-moving-averages-rsi-and-bollinger-bands-d5067eaad9ba) (Aug 2024)
+
+---
+
 ## 💼 Experience
 
 | Role | Company | Dates |
