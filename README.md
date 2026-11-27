@@ -1,6 +1,6 @@
 # Hi, I'm Sriteja Madishetty 👋
 
-**Data Scientist · Generative AI · MLOps** — based in Phoenix, AZ
+**Data Science Engineer @ American Express · Generative AI · MLOps** — Scottsdale, AZ
 
 I build LLM systems that hold up outside the demo: retrieval pipelines, fine-tuned models, and now **AI agents with guardrails enforced in code**. Before my M.P.S. in Data Science at UMBC, I spent over three years in DevOps and data engineering at Wipro and HCLTech, which is why I care about CI, monitoring and things that fail safely.
 
@@ -41,16 +41,21 @@ cp -r agent-skills/agent-architect ~/.claude/skills/
 
 | Role | Company | Dates |
 |---|---|---|
+| **Engineer II** (Data Science Engineer) | **American Express** | 2025 – present |
 | Senior Software Engineer | HCLTech, Hyderabad | 2022 |
 | Project Engineer | Wipro, Pune | 2019 – 2022 |
 
-SQL/ETL pipelines for financial reporting, anomaly detection for transaction inconsistencies, Tableau dashboards, Jenkins CI/CD with SonarQube, Red Hat Linux operations, ELK monitoring, and lots of Shell/Python automation.
+Before American Express: SQL/ETL pipelines for financial reporting, anomaly detection for transaction inconsistencies, Tableau dashboards, Jenkins CI/CD with SonarQube, Red Hat Linux operations, ELK monitoring, and lots of Shell/Python automation.
 
-## 🎓 Education & certification
+## 🎓 Education
 
 - **M.P.S. Data Science**, University of Maryland, Baltimore County (2023 – 2024)
+- **Technology Entrepreneurship Programme**, Indian School of Business (2017 – 2019)
 - **B.Tech Computer Science**, Malla Reddy Engineering College, Hyderabad (2015 – 2019)
-- **Oracle Cloud Infrastructure 2024 Generative AI Professional** (2024)
+
+## 📜 Certifications
+
+Oracle Cloud Infrastructure 2024 Generative AI Professional · AI Agents Development · Docker · Kubernetes · Ansible
 
 ---
 
@@ -58,4 +63,4 @@ SQL/ETL pipelines for financial reporting, anomaly detection for transaction inc
 
 - **AI / LLMs:** Claude & Anthropic SDK · Claude Agent SDK · MCP · Hugging Face Transformers · RAG (FAISS, BM25) · fine-tuning
 - **ML & data:** Python · SQL · pandas · scikit-learn · PyTorch · TensorFlow · PySpark · Tableau
-- **Cloud & MLOps:** AWS (SageMaker, Bedrock, Glue, Lambda, S3) · Docker · Jenkins · GitLab CI · MLflow · ELK
+- **Cloud & MLOps:** AWS (SageMaker, Bedrock, Glue, Lambda, S3) · Docker · Kubernetes · Ansible · Jenkins · GitLab CI · MLflow · ELK
